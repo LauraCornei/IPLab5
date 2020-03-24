@@ -12,3 +12,6 @@ https://www.youtube.com/watch?v=7xHsRkOdVwo
 
 Density-Based:
 https://www.youtube.com/watch?v=EtYG-xtU-4g
+
+Iris Dataset link:
+https://gist.github.com/netj/8836201
