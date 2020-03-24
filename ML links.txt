@@ -1,0 +1,14 @@
+https://www.geeksforgeeks.org/clustering-in-machine-learning/
+
+https://www.geeksforgeeks.org/learning-model-building-scikit-learn-python-machine-learning-library/?ref=rp
+
+de pe geeksfergeeks mai sunt linkuri care ar putea fi utile in footerul paginilor de mai sus
+
+ KMeans:
+https://www.youtube.com/watch?v=4b5d3muPQmA&t=37s
+
+Hierarchical:
+https://www.youtube.com/watch?v=7xHsRkOdVwo
+
+Density-Based:
+https://www.youtube.com/watch?v=EtYG-xtU-4g
